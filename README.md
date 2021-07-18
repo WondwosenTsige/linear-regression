@@ -31,10 +31,8 @@ Your notebook should be clutter free and polished.
 
 ## Pull request
 
-[pull request](https://github.com/WondwosenTsige/chess-board/pull/1)
+[pull request](https://github.com/WondwosenTsige/linear-regression/pull/1)
 
 ## Resources and Collaboration
 
 I worked this lab based on our instructor, Roger's demo and get help from Davve Sok, Daniel Dills
-
-
